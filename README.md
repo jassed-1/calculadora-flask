@@ -11,7 +11,7 @@ Executar
 
 Efetuar a Execuçao do código-fonte:
                           baixe o apache                           
-                          coloque o codigo na pasta /www
+                          coloque o codigo na pasta /var/html/www
                           escreva localhost no seu navegador
                           e va em calculadora flask
              
