@@ -10,10 +10,10 @@ Executar
 ----------
 
 Efetuar a Execuçao do código-fonte:
-              baixe o apache                           
-              coloque o codigo na pasta /www
-              escreva localhost no seu navegador
-              e va em calculadora flask
+                          baixe o apache                           
+                          coloque o codigo na pasta /www
+                          escreva localhost no seu navegador
+                          e va em calculadora flask
              
 
 
@@ -28,4 +28,4 @@ calcular numeros com todos os sinais
 
 Exemplos
 --------
-1 + 1 = 2 
+                        1 + 1 = 2 
