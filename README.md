@@ -1,7 +1,7 @@
 calculadora web 2
 ================
 
-um programa que faiz calculos com todos os sinais via site
+                Um programa que faiz calculos com todos os sinais via site
 
 
 ----
@@ -22,7 +22,7 @@ Executar
 Uso 
 ---
 
-calcular numeros com todos os sinais
+                Calcular numeros com todos os sinais
 
 ----
 
