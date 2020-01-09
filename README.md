@@ -9,7 +9,7 @@ um programa que faiz calculos com todos os sinais via site
 Executar
 ----------
 
-Efetuar a Execuçao do código-fonte:
+                       Efetuar a execução do código-fonte:
                           baixe o apache                           
                           coloque o codigo na pasta /var/html/www
                           escreva localhost no seu navegador
